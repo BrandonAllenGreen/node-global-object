@@ -6,3 +6,4 @@ Expected:
     $ ./global.js
     Node.js version: v6.3.1
     V8 version: 5.0.71.57
+
